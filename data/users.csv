@@ -1,0 +1,18 @@
+name,id,pass,country,age,Autonomy,Transparency,Diversity,Utility,Privacy
+Hardman,0,byylqfdndx,Asia,86,0,0,0,0,0
+Talley,1,jazrtjuaoq,Europe,48,1,0,1,1,0
+Martinez,2,wmevoksapd,South America,78,1,1,0,1,0
+Iverson,3,jcpgtadplq,Asia,75,1,1,1,0,0
+Morales,4,dmqxorxxfz,North America,14,0,0,0,1,1
+Romo,5,dqizehhilh,Europe,20,0,0,0,1,0
+Richardson,6,scqtyoeegc,Asia,100,1,0,1,1,1
+Stoudt,7,apxwyummxs,South America,15,0,0,1,1,0
+Smykowski,8,bopyxrahkd,South America,35,0,1,0,1,0
+Sulzer,9,cfoebhzezp,South America,34,0,1,1,1,0
+autonomy,10,autonomy,Europe,50,1,0,0,0,0
+transparency,11,transparency,South America,40,0,1,0,0,0
+diversity,12,diversity,Africa,33,0,0,1,0,0
+privacy,13,privacy,North America,66,0,0,0,0,1
+utility,14,utility,South America,99,0,0,0,1,0
+all,15,all,North America,44,1,1,1,1,1
+michal,16,michal,Europe,22,1,1,0,0,0
